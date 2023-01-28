@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "coryoc",
   "description": "Cool app that will make your day easier",
-  "keywords": ["innovative", "seamless", "blockchain"]
+  "keywords": ["innovative", "seamless", "blockchain", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.18.2",
 		"fs": "^0.0.1-security"
