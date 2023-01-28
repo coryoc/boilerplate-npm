@@ -3,9 +3,12 @@
 	"author": "coryoc",
   "description": "Cool app that will make your day easier",
   "keywords": ["innovative", "seamless", "blockchain", "freecodecamp"],
+  "license": "TBD",
+  "version": "v0.0.1",
 	"dependencies": {
 		"express": "^4.18.2",
-		"fs": "^0.0.1-security"
+		"fs": "^0.0.1-security",
+    "@freecodecamp/example": "1.1.0",
 	},
 	"main": "server.js",
 	"scripts": {
